@@ -11,18 +11,19 @@ data class page(
 
 val pages = listOf(
     page(
-        title = "Lorem Ipsum is simply dummy",
-        description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        title = "Welcome to GlobeToday",
+        description = "Discover the Latest News\n\nStay informed with the latest news from around the world. Our app provides up-to-date and relevant news articles to keep you in the know.",
         image = R.drawable.onboarding1
     ),
     page(
-        title = "Lorem Ipsum is simply dummy",
-        description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        title = "Effortless News Search",
+        description = "Easily search for news topics that matter to you. Our powerful search feature allows you to find specific news articles and stay updated on your interests.",
         image = R.drawable.onboarding2
     ),
     page(
-        title = "Lorem Ipsum is simply dummy",
-        description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        title = "Bookmark Your Favorites",
+        description = "Bookmark and save your favorite news articles for later. Our app lets you create a personalized reading list, making it convenient to revisit and share articles.",
         image = R.drawable.onboarding3
     )
 )
+
